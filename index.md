@@ -2,21 +2,27 @@
 layout: default
 ---
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About Me
 
 I’m a passionate and detail-oriented Junior Cybersecurity Analyst. With hands-on experience in security analysis, threat detection, and incident response, I am eager to contribute to a robust security infrastructure. My goal is to leverage my skills and cloud security knowledge to protect digital assets in a Cybersecurity Analyst role.
 
-## Header 2
+## Experience 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Cybersecurity Intern | Protexxa, Cybernations
 
-### Header 3
+June 2024 - Present
+
+At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From conducting vulnerability assessments to creating phishing workshops, I played a key role in enhancing our security posture. My work included researching best practices, collaborating with senior analysts, and providing actionable recommendations to improve client network security.
+
+## Certifications
+
+> CompTIA Security+ (Feb 2024)
+> Microsoft AZ-900: Azure Fundamentals (Aug 2024)
+> AWS Certified Cloud Practitioner (Expected Sep 2024)
+> Microsoft SC-900: Security, Compliance, and Identity Fundamentals (Expected Oct 2024)
+
+### Scripting
 
 ```js
 // Javascript code with syntax highlighting.
