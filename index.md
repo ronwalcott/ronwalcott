@@ -2,16 +2,13 @@
 layout: default
 ---
 
-
-[Visit me on LinkedIn https://www.linkedin.com/in/ron-pierre-walcott/](./another-page.html).
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I’m a passionate and detail-oriented Junior Cybersecurity Analyst. With hands-on experience in security analysis, threat detection, and incident response, I am eager to contribute to a robust security infrastructure. My goal is to leverage my skills and cloud security knowledge to protect digital assets in a Cybersecurity Analyst role.
 
 ## Header 2
 
