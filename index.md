@@ -157,14 +157,14 @@ end
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
+<dt>Owner Of Portfolio</dt>
 <dd>Ron-Pierre A. Walcott</dd>
-<dt>Work</dt>
+<dt>Employed With</dt>
 <dd>Protexxa, Cyber Nations</dd>
-<dt>Position</dt>
+<dt>Current Position</dt>
 <dd>Cybersecurity Analyst</dd>
 <dt>Visit me on</dt>
-<a> <a href="https://www.linkedin.com/in/ron-pierre-walcott/"> </a>
+<a>https://www.linkedin.com/in/ron-pierre-walcott/"</a>
 
 </dl>
 
