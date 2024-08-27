@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ron! <br/><a href="https://github.com/ronwalcott/"</a>, <a href="https://www.linkedin.com/in/ron-pierre-walcott/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Ron! <br/><a href="https://github.com/ronwalcott/"</a> <a href="https://www.linkedin.com/in/ron-pierre-walcott/">Cybersecurity Junior Analyst</a>
 
 - 🔭 I’m currently working on Azure SC-900 & AWS Cloud Practitioner
 - 🌱 I’m currently learning security and compliance in the cloud.
