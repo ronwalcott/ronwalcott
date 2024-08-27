@@ -73,6 +73,7 @@ At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From 
 > Completed 33/33 levels, demonstrating strong problem-solving, technical skills, and a commitment to continuous learning.
 
 
+
 ### Scripting
 
 ```bash
@@ -84,9 +85,12 @@ done
 
 cat pincode.txt | nc localhost 30002 >> password.txt
 ```
+
 ### Writing and running the script
 
+
 ![Branching](writing_the_code_linux.png)
+
 ![Branching](pincode_bruteforce_linux.png)
 
 #### Header 4
@@ -101,14 +105,14 @@ cat pincode.txt | nc localhost 30002 >> password.txt
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### File Decompression
 
-| head1        | head two          | three |
+| Function     | Description       | Command |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| gunzip       | compress          | gz2   |
+| bunzip       | compress          | bzip2 |
+| tar archive  | archive           | tar   |
+| hexdump      | make a hexdump    | xxd   |
 
 ### There's a horizontal rule below this.
 
