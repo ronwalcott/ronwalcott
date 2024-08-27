@@ -110,6 +110,7 @@ cat pincode.txt | nc localhost 30002 >> password.txt
 
 ![Octocat](azure_fundamentals_badge.png)
 
+
 ### Preferred OS [Kali Linux]
 
 ![Branching](kali_wallpaper_green_4k_by_ashansol_dbinp74-fullview.png)
@@ -124,11 +125,3 @@ Whether you’re a potential employer or a fellow cybersecurity enthusiast, I’
 **Phone:** (1246) 837-3181
 
 
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
