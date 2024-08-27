@@ -164,7 +164,7 @@ end
 <dt>Position</dt>
 <dd>Cybersecurity Analyst</dd>
 <dt>Visit me on</dt>
-<a> href="https://www.linkedin.com/in/ron-pierre-walcott/"</a>
+<a> <a href="https://www.linkedin.com/in/ron-pierre-walcott/"> </a>
 
 </dl>
 
