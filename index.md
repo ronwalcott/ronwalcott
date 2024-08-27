@@ -154,18 +154,14 @@ end
 ![Branching](kali_wallpaper_green_4k_by_ashansol_dbinp74-fullview.png)
 
 
-### Definition lists can be used with HTML syntax.
+### Get in Touch
 
-<dl>
-<dt>Owner Of Portfolio</dt>
-<dd>Ron-Pierre A. Walcott</dd>
-<dt>Employed With</dt>
-<dd>Protexxa, Cyber Nations</dd>
-<dt>Current Position</dt>
-<dd>Cybersecurity Analyst</dd>
-<dt>Engage With Me Via</dt>
-<dd>LinkedIn - Ron-Pierre Walcott</dd>
-<dd>Email - ronpierrewalcott@gmail.com</dd>
+Whether you’re a potential employer or a fellow cybersecurity enthusiast, I’d love to connect. Feel free to reach out through any of my contacts below:
+
+**Email:** <a href="mailto:ronpierrewalcott@gmail.com">ronpierrewalcott@gmail.com</a><br>
+**LinkedIn:** <a href="https://www.linkedin.com/in/ron-pierre-walcott" target="_blank">Ron-Pierre Walcott</a><br>
+**Phone:** (1246) 837-3181
+
 
 </dl>
 
