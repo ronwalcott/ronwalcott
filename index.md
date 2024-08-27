@@ -18,17 +18,25 @@ At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From 
 ## Certifications
 
 > CompTIA Security+ (Feb 2024)
+
 > Microsoft AZ-900: Azure Fundamentals (Aug 2024)
+
 > AWS Certified Cloud Practitioner (Expected Sep 2024)
+
 > Microsoft SC-900: Security, Compliance, and Identity Fundamentals (Expected Oct 2024)
 
 ### Technical Skills
 
 > **Security Tools**: SIEM (Wazuh), Wireshark, Nessus, Metasploit, Nmap
+
 > **Cloud Platforms**: Microsoft Azure, AWS
+
 > **Programming/Scripting**: Python, PowerShell, Bash
+
 > **Operating Systems**: Windows, Linux (Ubuntu, Kali)
+
 > **Networking**: TCP/IP, DNS, VPN, Firewall Configuration, Sigma Rule Creator
+
 > **Vulnerability Management**: Penetration testing, vulnerability scanning
 
 ### Projects
