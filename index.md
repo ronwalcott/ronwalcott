@@ -159,10 +159,10 @@ end
 <dl>
 <dt>Name</dt>
 <dd>Ron-Pierre A. Walcott</dd>
-<dt>Born</dt>
-<dd>1999</dd>
-<dt>Birthplace</dt>
-<dd>Bridgetown</dd>
+<dt>Work</dt>
+<dd>Protexxa, Cyber Nations</dd>
+<dt>Position</dt>
+<dd>Cybersecurity Analyst</dd>
 <dt>Visit me on</dt>
 <a> href="https://www.linkedin.com/in/ron-pierre-walcott/"</a>
 
