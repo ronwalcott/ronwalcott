@@ -34,7 +34,7 @@ At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From 
 ### Projects
 
 **TryHackMe Advent of Cyber 2023**
-Engaged in 25 daily challenges covering network analysis, web application security, and incident response. This project honed my skills in threat detection, vulnerability exploitation, and cloud security.
+> Engaged in 25 daily challenges covering network analysis, web application security, and incident response. This project honed my skills in threat detection, vulnerability exploitation, and cloud security.
 
 **Personal Cybersecurity Lab**
 > I built a home lab using VirtualBox and Ubuntu, simulating various cyber threats and developing Python scripts for security automation. This project sharpened my hands-on skills and deepened my understanding of the MITRE ATT&CK framework.
