@@ -148,11 +148,13 @@ cat pincode.txt | nc localhost 30002 >> password.txt
   - level 2 item
 - level 1 item
 
-### Small image
+### Certification Badges
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](comptia_badge.png)
 
-### Large image
+![Octocat](azure_fundamentals_badge.png)
+
+### Preferred OS [Kali Linux]
 
 ![Branching](kali_wallpaper_green_4k_by_ashansol_dbinp74-fullview.png)
 
