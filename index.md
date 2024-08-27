@@ -84,6 +84,10 @@ done
 
 cat pincode.txt | nc localhost 30002 >> password.txt
 ```
+### Writing and running the script
+
+![Branching](writing_the_code_linux.png)
+![Branching](pincode_bruteforce_linux.png)
 
 #### Header 4
 
