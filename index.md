@@ -11,7 +11,7 @@ I’m a passionate and detail-oriented Junior Cybersecurity Analyst. With hands-
 
 Cybersecurity Intern
 
-Protexxa, Cybernations
+Protexxa, Cyber Nations
 
 June 2024-Present
 
@@ -44,13 +44,33 @@ At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From 
 ### Projects
 
 **TryHackMe Advent of Cyber 2023**
-> Engaged in 25 daily challenges covering network analysis, web application security, and incident response. This project honed my skills in threat detection, vulnerability exploitation, and cloud security.
+> Completed 24/24 challenges in TryHackMe's Advent of Cyber on December 25th, 2023. Displaying a strong interest in challenging myself and broadening my horizons, I learned the core principles of:
+
+> Penetration testing: Web application exploitation, and password cracking techniques.
+
+> Security operations and engineering: Navigated a legacy system, learnt about DOS and its connection to the Windows Command Prompt and discovered the significance of file signatures and magic bytes in data recovery and file system analysis.
+
+> Digital forensics and incident response: Analyzed digital artifacts and evidence, recovered deleted digital artifacts, and verified the integrity of a drive.
+
+> Machine learning: AI chatbot prompt injection, used neural networks to predict anomalies, classification and training models, prepared the machine learning model, split the dataset into training and testing data, and evaluated the model's effectiveness.
+
+> Malware analysis: Learned how to safely analyze malware samples, the fundamentals of .NET binaries, built a methodology for analyzing malware source code.
 
 **Personal Cybersecurity Lab**
-> I built a home lab using VirtualBox and Ubuntu, simulating various cyber threats and developing Python scripts for security automation. This project sharpened my hands-on skills and deepened my understanding of the MITRE ATT&CK framework.
+> In my home security lab I challenged myself to download and configure Wazuh. This will provide me with practical knowledge of configuration and how to operate a SIEM.
+
+> After completing, this project taught me how to deploy a SIEM, monitor changes to files and the Windows registry, and detect unauthorized processes. Wazuh uses the MITRE ATT&CK, compliance, SCA, and security events to help protect devices and networks.
 
 **Capture The Flag (CTF) Wargames**
-> Completed a full set of CTF challenges, mastering Linux commands, port scanning, and bash scripting. This experience enhanced my problem-solving abilities and technical acumen.
+> Mastered fundamental linux commands for navigating the filesystem, manipulating files and managing processes.
+
+> Read and extracted specific information from files and handled compressed files.
+
+> Performed port scans to identify potential vulnerabilities and connected to remote servers.
+
+> Developed bash scripts to automate repetitive tasks and utilized setuid operations.
+
+> Completed 33/33 levels, demonstrating strong problem-solving, technical skills, and a commitment to continuous learning.
 
 
 ### Scripting
