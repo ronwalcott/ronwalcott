@@ -163,8 +163,8 @@ end
 <dd>Protexxa, Cyber Nations</dd>
 <dt>Current Position</dt>
 <dd>Cybersecurity Analyst</dd>
-<dt>Visit me on</dt>
-<a>https://www.linkedin.com/in/ron-pierre-walcott/"</a>
+<dt>Engage with me on LinkedIn</dt>
+<dd>Ron-Pierre Walcott</dd>
 
 </dl>
 
