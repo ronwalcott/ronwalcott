@@ -163,8 +163,9 @@ end
 <dd>Protexxa, Cyber Nations</dd>
 <dt>Current Position</dt>
 <dd>Cybersecurity Analyst</dd>
-<dt>Engage with me on LinkedIn</dt>
-<dd>Ron-Pierre Walcott</dd>
+<dt>Engage With Me Via</dt>
+<dd>LinkedIn - Ron-Pierre Walcott</dd>
+<dd>Email - ronpierrewalcott@gmail.com</dd>
 
 </dl>
 
