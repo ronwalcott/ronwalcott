@@ -164,7 +164,7 @@ end
 <dt>Birthplace</dt>
 <dd>Bridgetown</dd>
 <dt>Visit me on</dt>
-[LinkedIn](./another-page.html)
+<a href="https://www.linkedin.com/in/ron-pierre-walcott/">
 </dl>
 
 ```
