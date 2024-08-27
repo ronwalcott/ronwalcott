@@ -22,6 +22,16 @@ At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From 
 > AWS Certified Cloud Practitioner (Expected Sep 2024)
 > Microsoft SC-900: Security, Compliance, and Identity Fundamentals (Expected Oct 2024)
 
+### Technical Skills
+
+> **Security Tools**: SIEM (Wazuh), Wireshark, Nessus, Metasploit, Nmap
+> **Cloud Platforms**: Microsoft Azure, AWS
+> **Programming/Scripting**: Python, PowerShell, Bash
+> **Operating Systems**: Windows, Linux (Ubuntu, Kali)
+> **Networking**: TCP/IP, DNS, VPN, Firewall Configuration, Sigma Rule Creator
+> **Vulnerability Management**: Penetration testing, vulnerability scanning
+
+
 ### Scripting
 
 ```js
