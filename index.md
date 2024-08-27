@@ -151,7 +151,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](kali_wallpaper_green_4k_by_ashansol_dbinp74-fullview.png)
 
 
 ### Definition lists can be used with HTML syntax.
