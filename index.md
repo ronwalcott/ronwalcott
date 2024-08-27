@@ -9,9 +9,11 @@ I’m a passionate and detail-oriented Junior Cybersecurity Analyst. With hands-
 
 ## Experience 
 
-Cybersecurity Intern | Protexxa, Cybernations
+Cybersecurity Intern
 
-June 2024 - Present
+Protexxa, Cybernations
+
+June 2024-Present
 
 At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From conducting vulnerability assessments to creating phishing workshops, I played a key role in enhancing our security posture. My work included researching best practices, collaborating with senior analysts, and providing actionable recommendations to improve client network security.
 
