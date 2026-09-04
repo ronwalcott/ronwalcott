@@ -1,127 +1,222 @@
+# Ron-Pierre Walcott
+
+## QA Automation Engineer | Manual Tester
+
+**Python · Playwright · Selenium · pytest · API Testing · CI/CD · Cybersecurity Product Testing**
+
+I am a QA professional experienced in manual testing and test automation for web-based cybersecurity products. I validate complete user journeys, investigate frontend and API defects, build maintainable automated tests, and provide engineering teams with clear evidence for resolving issues.
+
+My cybersecurity background helps me test authentication, authorization, account onboarding, role-based access, sensitive-data workflows, and security-focused product features with a risk-aware mindset.
+
+[View My GitHub](https://github.com/ronwalcott) | [Connect on LinkedIn](https://www.linkedin.com/in/ron-pierre-walcott) | [Email Me](mailto:ronpierrewalcott@gmail.com)
+
 ---
-layout: default
+
+## Core Skills
+
+### Test Automation
+
+* Python
+* Playwright
+* Selenium WebDriver
+* pytest
+* Page Object Model
+* Data-driven testing
+* Reusable fixtures and test utilities
+* Cross-browser testing
+* Allure reporting
+* GitHub Actions and continuous integration
+
+### Manual and API Testing
+
+* Functional and regression testing
+* Exploratory testing
+* End-to-end workflow validation
+* UI and UX validation
+* API response validation
+* Frontend-to-backend data reconciliation
+* Browser developer tools
+* Network request analysis
+* Defect investigation and reproduction
+* Jira and Confluence documentation
+
+### Security-Focused Testing
+
+* Authentication and onboarding workflows
+* Role-based access control
+* Permission and authorization testing
+* Input and email validation
+* Session and account-state testing
+* Cybersecurity dashboards
+* Resume-processing and job-matching workflows
+* Administrative portals
+
+### Cybersecurity Tools
+
+* Wireshark
+* Nmap
+* Nessus
+* Wazuh
+* Metasploit
+* Linux
+* Microsoft Azure
+* Amazon Web Services
+
 ---
 
+## Professional Experience
 
-# About Me
+### QA Automation and Manual Tester
 
-I’m a passionate and detail-oriented Junior Cybersecurity Analyst. With hands-on experience in security analysis, threat detection, and incident response, I am eager to contribute to a robust security infrastructure. My goal is to leverage my skills and cloud security knowledge to protect digital assets in a Cybersecurity Analyst role.
+**Protexxa | June 2024 – Present**
 
-## Experience 
+* Perform manual and automated testing across cybersecurity web applications and administrative portals.
+* Validate complete workflows involving account creation, invitations, onboarding, authentication, permissions, licensing, and account status transitions.
+* Build and maintain automated browser tests using Python, Playwright, Selenium, and pytest.
+* Test frontend behaviour against API responses to identify data-rendering and state-management defects.
+* Use browser developer tools to inspect network requests, payloads, responses, status codes, and frontend errors.
+* Validate role-based access for platform administrators, partner administrators, company administrators, and end users.
+* Test positive, negative, boundary, recovery, and interruption scenarios.
+* Investigate asynchronous workflows such as resume processing, progress tracking, timeouts, retries, and recovery.
+* Document defects in Jira with clear reproduction steps, expected results, actual results, evidence, and technical observations.
+* Collaborate with developers and product stakeholders during feature validation, regression testing, and defect retesting.
 
-Cybersecurity Intern
+---
 
-Protexxa, Cyber Nations
+## Selected QA Case Studies
 
-June 2024-Present
+### Partner and Company Administration
 
-At Protexxa CyberNations, I immersed myself in the world of cybersecurity. From conducting vulnerability assessments to creating phishing workshops, I played a key role in enhancing our security posture. My work included researching best practices, collaborating with senior analysts, and providing actionable recommendations to improve client network security.
+Validated administrative workflows for creating and managing partner and company accounts.
+
+**Coverage included:**
+
+* Partner creation and persistence
+* Primary administrator invitations
+* Company onboarding
+* License allocation and calculations
+* Search and combined filtering
+* Partner and company status transitions
+* Role-based field permissions
+* Frontend and API data consistency
+* Validation of zero, negative, decimal, nonnumeric, and excessive license values
+
+**Defects identified included:**
+
+* Invalid email addresses accepted during account creation
+* Incorrect account status before onboarding completion
+* Region and country selections behaving independently
+* Valid API counts rendered incorrectly in the interface
+* Dashboard information remaining stale until the page was refreshed
+
+Sensitive company information, internal URLs, and production data are excluded from this portfolio.
+
+---
+
+### Resume-Processing Recovery Testing
+
+Tested recovery behaviour for an asynchronous resume-processing workflow.
+
+**Test scenario:**
+
+1. Uploaded a valid PDF resume.
+2. Interrupted network connectivity during processing.
+3. Waited for the processing timeout.
+4. Restored connectivity.
+5. Verified whether the user could upload a replacement resume.
+6. Confirmed that the replacement resume was accepted and processed.
+7. Verified that extracted skills appeared and the profile reached its completed state.
+
+**Testing techniques used:**
+
+* Network interruption
+* Browser throttling
+* Timeout validation
+* State-recovery testing
+* Retry testing
+* Network request inspection
+* End-to-end result verification
+
+---
+
+### Data Reconciliation and Bulk-Operation Testing
+
+Validated workflows where multiple records are selected, processed, or updated together.
+
+**Coverage included:**
+
+* Selected-record counts
+* Successful and failed processing totals
+* Partial-success scenarios
+* Duplicate or previously processed records
+* UI summaries compared with API results
+* Data persistence after refreshing
+* Clear and accurate user feedback
+
+This testing focused on ensuring that the interface accurately represented backend processing results.
+
+---
+
+## QA Automation Portfolio
+
+My automation work focuses on maintainability, readable test design, reusable components, and useful failure evidence.
+
+A representative automation project should include:
+
+* Page Object Model structure
+* Reusable fixtures
+* Environment-based configuration
+* Positive and negative test coverage
+* Screenshots on failure
+* HTML or Allure reporting
+* GitHub Actions execution
+* Clear local setup instructions
+* Sanitized test data
+* API and UI consistency checks
+
+View my repositories on [GitHub](https://github.com/ronwalcott).
+
+---
 
 ## Certifications
 
-> CompTIA Security+ (Feb 2024)
+* **CompTIA Security+** — February 2024
+* **Microsoft Certified: Azure Fundamentals (AZ-900)** — August 2024
 
-> Microsoft AZ-900: Azure Fundamentals (Aug 2024)
+---
 
-> AWS Certified Cloud Practitioner (Expected Sep 2024)
+## Earlier Cybersecurity Projects
 
-> Microsoft SC-900: Security, Compliance, and Identity Fundamentals (Expected Oct 2024)
+### Wazuh Security Monitoring Lab
 
-### Technical Skills
+Configured a home lab using Wazuh to explore endpoint monitoring, security events, alerts, and log analysis.
 
-> **Security Tools**: SIEM (Wazuh), Wireshark, Nessus, Metasploit, Nmap
+### Network and Vulnerability Assessment Practice
 
-> **Cloud Platforms**: Microsoft Azure, AWS
+Used tools including Wireshark, Nmap, and Nessus to study network traffic, host discovery, service identification, and vulnerability assessment.
 
-> **Programming/Scripting**: Python, PowerShell, Bash
+### Capture-the-Flag and Security Labs
 
-> **Operating Systems**: Windows, Linux (Ubuntu, Kali)
+Completed practical cybersecurity exercises involving Linux, networking, reconnaissance, scripting, and security problem-solving.
 
-> **Networking**: TCP/IP, DNS, VPN, Firewall Configuration, Sigma Rule Creator
+---
 
-> **Vulnerability Management**: Penetration testing, vulnerability scanning
+## What I Bring to a QA Team
 
-### Projects
+* A combination of manual testing and automation experience
+* Strong defect investigation and documentation
+* Experience validating complex multi-role workflows
+* Confidence working with browser and API evidence
+* A cybersecurity-informed approach to risk and edge cases
+* Clear communication with developers and product stakeholders
+* A focus on reliable, repeatable, and maintainable testing
 
-**TryHackMe Advent of Cyber 2023**
-> Completed 24/24 challenges in TryHackMe's Advent of Cyber on December 25th, 2023. Displaying a strong interest in challenging myself and broadening my horizons, I learned the core principles of:
+---
 
-> Penetration testing: Web application exploitation, and password cracking techniques.
+## Contact
 
-> Security operations and engineering: Navigated a legacy system, learnt about DOS and its connection to the Windows Command Prompt and discovered the significance of file signatures and magic bytes in data recovery and file system analysis.
-
-> Digital forensics and incident response: Analyzed digital artifacts and evidence, recovered deleted digital artifacts, and verified the integrity of a drive.
-
-> Machine learning: AI chatbot prompt injection, used neural networks to predict anomalies, classification and training models, prepared the machine learning model, split the dataset into training and testing data, and evaluated the model's effectiveness.
-
-> Malware analysis: Learned how to safely analyze malware samples, the fundamentals of .NET binaries, built a methodology for analyzing malware source code.
-
-**Personal Cybersecurity Lab**
-> In my home security lab I challenged myself to download and configure Wazuh. This will provide me with practical knowledge of configuration and how to operate a SIEM.
-
-> After completing, this project taught me how to deploy a SIEM, monitor changes to files and the Windows registry, and detect unauthorized processes. Wazuh uses the MITRE ATT&CK, compliance, SCA, and security events to help protect devices and networks.
-
-**Capture The Flag (CTF) Wargames**
-> Mastered fundamental linux commands for navigating the filesystem, manipulating files and managing processes.
-
-> Read and extracted specific information from files and handled compressed files.
-
-> Performed port scans to identify potential vulnerabilities and connected to remote servers.
-
-> Developed bash scripts to automate repetitive tasks and utilized setuid operations.
-
-> Completed 33/33 levels, demonstrating strong problem-solving, technical skills, and a commitment to continuous learning.
-
-
-
-### Scripting
-
-```bash
-// Bash script code for pincode bruteforcing.
-#!/bin/bash
-for i in {0000..9999}
-  do echo "password $i" >> pincode.txt
-done
-
-cat pincode.txt | nc localhost 30002 >> password.txt
-```
-
-### Writing and running the script
-
-
-![Branching](writing_the_code_linux.png)
-
-![Branching](pincode_bruteforce_linux.png)
-
-
-###### File Decompression
-
-| Function     | Description       | Command |
-|:-------------|:------------------|:------|
-| gunzip       | compress          | gz2   |
-| bunzip       | compress          | bzip2 |
-| tar archive  | archive           | tar   |
-| hexdump      | make a hexdump    | xxd   |
-
-
-### Certification Badges
-
-![Octocat](comptia_badge.png)
-
-![Octocat](azure_fundamentals_badge.png)
-
-
-### Preferred OS [Kali Linux]
-
-![Branching](kali_wallpaper_green_4k_by_ashansol_dbinp74-fullview.png)
-
-
-### Get in Touch
-
-Whether you’re a potential employer or a fellow cybersecurity enthusiast, I’d love to connect. Feel free to reach out through any of my contacts below:
-
-**Email:** <a href="mailto:ronpierrewalcott@gmail.com">ronpierrewalcott@gmail.com</a><br>
-**LinkedIn:** <a href="https://www.linkedin.com/in/ron-pierre-walcott" target="_blank">Ron-Pierre Walcott</a><br>
-**Phone:** (1246) 837-3181
-
-
+* **Email:** [ronpierrewalcott@gmail.com](mailto:ronpierrewalcott@gmail.com)
+* **LinkedIn:** [linkedin.com/in/ron-pierre-walcott](https://www.linkedin.com/in/ron-pierre-walcott)
+* **GitHub:** [github.com/ronwalcott](https://github.com/ronwalcott)
+* **Portfolio:** [ronwalcott.github.io](https://ronwalcott.github.io/)
+* **Location:** Barbados
